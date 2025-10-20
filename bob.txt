@@ -1,0 +1,2 @@
+Đây là file bob.txt. File này được tạo tự động để minh họa bài tập Python.
+Chào mừng bạn đến với Python!
