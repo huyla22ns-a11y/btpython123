@@ -1,0 +1,11 @@
+# Nhập chiều dài và chiều rộng (mét)
+chieu_dai = float(input("Nhập chiều dài của cánh đồng (m): "))
+chieu_rong = float(input("Nhập chiều rộng của cánh đồng (m): "))
+
+# Tính diện tích (m2)
+dien_tich_m2 = chieu_dai * chieu_rong
+
+# Đổi sang mẫu Anh
+dien_tich_mau_anh = dien_tich_m2 / 43560
+
+print("Diện tích cánh đồng là:", dien_tich_mau_anh, "mẫu Anh")
