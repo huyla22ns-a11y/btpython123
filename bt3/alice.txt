@@ -1,2 +1,0 @@
-Đây là nội dung mặc định được tạo tự động.
-Chào mừng bạn đến với Python File Handling!
